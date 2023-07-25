@@ -14,7 +14,7 @@ namespace Portafolio.Services
                 new Proyecto{
                 Titulo= "Sistema de matricula",
                 Descripcion="Sistema en el cual...",
-                Link="https://amazon.com",
+                Link="https://google.com",
                 UrlImagen="/imagenes/tesis.png",
                 },
                 new Proyecto{
@@ -26,8 +26,8 @@ namespace Portafolio.Services
                 {
                 Titulo= "ReportesUdec",
                 Descripcion="Sistema en el cual..",
-                Link="https://reddit.com",
-                UrlImagen="imagenes/informe.png",
+                Link="https://google.com",
+                UrlImagen="/imagenes/informe.png",
                 }
             };
         }

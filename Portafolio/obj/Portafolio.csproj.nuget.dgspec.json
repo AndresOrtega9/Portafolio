@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
+    "D:\\Portafolio_Git\\Portafolio\\Portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
+    "D:\\Portafolio_Git\\Portafolio\\Portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectUniqueName": "D:\\Portafolio_Git\\Portafolio\\Portafolio.csproj",
         "projectName": "Portafolio",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectPath": "D:\\Portafolio_Git\\Portafolio\\Portafolio.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\obj\\",
+        "outputPath": "D:\\Portafolio_Git\\Portafolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

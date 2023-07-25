@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98kxhgshmJgjvE8WxfurwepR96HPM0sDpr2PIJ+bejBbjPqOr+aE7fgP1LYlVYPuXN0F4GJjWN+bq4gkBsNAig==",
+  "dgSpecHash": "Vlms6me4e0hW4bDrwzzQZHq5tbkQ6Gnq+NL/6gYYBK22TvPYxnzBLHgHeiDtzpZeSXDsxIQqUPrIb/5ckPT5PQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+  "projectFilePath": "D:\\Portafolio_Git\\Portafolio\\Portafolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
