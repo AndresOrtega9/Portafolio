@@ -23,7 +23,7 @@ namespace Portafolio.Services
                 Link="https://google.com",
                 UrlImagen="/imagenes/boleto.png",
                 }, new Proyecto
-                {
+                { 
                 Titulo= "ReportesUdec",
                 Descripcion="Sistema en el cual..",
                 Link="https://google.com",
